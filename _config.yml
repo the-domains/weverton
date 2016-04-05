@@ -1,0 +1,28 @@
+name: weverton
+favicon: null
+layout_spectrum: 0.7528543362859637
+typography_spectrum: 0.9661748367361724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.27501663798466325
+  lightness: 0.6808814648538828
+  saturation: 0.30033543542958796
+  rhythmicContrast: 0.019781911047175527
+purpose: []
